@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: pierresbirthday
+        psr4_prefix: pierresbirthday
+        src_path: app
